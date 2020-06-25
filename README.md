@@ -1,5 +1,7 @@
 # my-first-binder
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kdhenderson/my-first-binder.git/master)
+
 To run 'hello.py':
   - In the top right corner, click 'New' > 'Terminal'
   - In the new tab with the terminal, type python hello.py and press return
@@ -12,5 +14,5 @@ To check the environment:
         import numpy
         print(numpy.__version__)
         numpy.random.randn()
-  - Run the cell to see the version number and a random number printed out, press either SHIFT+RETURN or the "Run" button in the ,enu bar
+  - Run the cell to see the version number and a random number printed out, press either SHIFT+RETURN or the "Run" button in the menu bar
 
